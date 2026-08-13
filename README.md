@@ -1,135 +1,154 @@
-<!-- ========================================================================
-    MOHAMED AZZAM — CYBER TACTICAL HUD PROFILE
-    Repository Target: Azzammoo10/Azzammoo10 (README.md)
-    Design Rules: Animated, High-Tech, Cyber Aesthetic, Zero Emojis
-======================================================================== -->
+<!-- ================================================================
+    MOHAMED AZZAM  //  CYBERSECURITY ENGINEER  //  PENTESTER
+    Profile README for: github.com/Azzammoo10
+    Tools: capsule-render, readme-typing-svg, shields.io,
+           github-readme-stats, github-readme-streak-stats,
+           github-readme-activity-graph, github-profile-trophy
+================================================================ -->
+
+<!-- ── HEADER WAVE ── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0000,100:FF2D2D&height=220&section=header&text=MOHAMED%20AZZAM&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Pentester&descSize=18&descColor=FF2D2D&descAlignY=55" width="100%" />
 
 <div align="center">
 
-<!-- Wavy Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=050505&customColorList=050505,FF2D2D,050505&height=210&section=header&text=AZZAM%20//%20CYBERSECURITY&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" />
-
-<!-- Dynamic Animated Typing Subtitle -->
+<!-- ── SHIELDS.IO BADGES ── -->
 <a href="https://azzammo.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FF2D2D&center=true&vCenter=true&width=650&height=40&lines=CYBERSECURITY+ENGINEER+%7C+PURPLE+TEAM+PENTESTER;DLP+SECURITY+ENGINEER+INTERN+%40+AXA+GBS;SPECIALIZED+IN+OFFSEC%2C+M365+DLP+%26+SECURE+DEV;LIVE+PORTFOLIO+%3A+HTTPS%3A%2F%2FAZZAMMO.COM" alt="Typing Header" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-azzammo.com-FF2D2D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/mohamed-azzam-93115823a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohamed_AZZAM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:azzam.moo10@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-azzam.moo10-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Status Badges -->
-<a href="https://azzammo.com"><img src="https://img.shields.io/badge/PORTFOLIO-AZZAMMO.COM-FF2D2D?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/mohamed-azzam-93115823a/"><img src="https://img.shields.io/badge/LINKEDIN-MOHAMED__AZZAM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:azzam.moo10@gmail.com"><img src="https://img.shields.io/badge/EMAIL-AZZAM.MOO10-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/CLEARANCE-SECRET-1A1A1A?style=for-the-badge&logo=shield&logoColor=FF2D2D" />
+<img src="https://komarev.com/ghpvc/?username=Azzammoo10&style=for-the-badge&color=FF2D2D&label=PROFILE+VIEWS" alt="Profile Views" />
 
-</div>
+<br/><br/>
 
----
-
-### [>] TERMINAL OPERATIONAL DOSSIER
-
-```zsh
-[+] USER_IDENTITY   : Mohamed AZZAM
-[+] PRIMARY_ROLE    : Cybersecurity Engineer | Pentester Junior (Purple Team)
-[+] CURRENT_IMPACT  : DLP Security Engineer Intern @ AXA GBS Morocco
-[+] CORE_DOMAINS    : Microsoft Purview · M365 DLP · Pentesting · OWASP · Secure Architecture
-[+] GEOLOCATION     : Rabat, Morocco [34.0209 N, 6.8416 W]
-[+] SYSTEM_STATUS   : OPERATIONAL // PORTFOLIO: HTTPS://AZZAMMO.COM
-```
-
----
-
-### [+] TECHNICAL CLEARANCE MATRIX & CAPABILITIES
-
-```text
-================================================================================
-CATEGORY   MODULE CODE   TECHNOLOGIES & PROTOCOLS
-================================================================================
-SEC-01     DATA_PROTECT  Microsoft Purview | M365 DLP | Data Classification | Policies
-SEC-02     OFFSEC_PENT   Nmap | Burp Suite | Metasploit | Wireshark | OWASP Top 10 | Kali
-SEC-03     SECURE_DEV    Spring Security | JWT | SHA-256 / AES | Input Validation | API
-SEC-04     NETWORK_INF   CCNA | Firewalls | VPN / IDS / IPS | TCP/IP | Packet Tracer
-DEV-01     LANGUAGES     Java | C | C# | C++ | Python
-DEV-02     FRAMEWORKS    Spring Boot | Next.js | .NET | Django | TailwindCSS
-================================================================================
-```
-
----
-
-### [*] VECTOR CAPABILITY METRICS
-
-<br/>
-
-**DATA PROTECTION & M365 DLP** `[92%]`
-```text
-[██████████████████████████████████████████████████░░░░] 92%
-```
-
-**OFFENSIVE SECURITY & PENTESTING** `[88%]`
-```text
-[█████████████████████████████████████████████░░░░░░░░░] 88%
-```
-
-**SECURE SOFTWARE DEVELOPMENT** `[85%]`
-```text
-[██████████████████████████████████████████░░░░░░░░░░░░] 85%
-```
-
-**NETWORK & INFRASTRUCTURE SECURITY** `[84%]`
-```text
-[█████████████████████████████████████████░░░░░░░░░░░░░] 84%
-```
-
-<br/>
-
----
-
-### [!] OPERATIONAL ROADMAP
-
-```text
-[PHASE 1 : ACTIVE]  --> Jr Pentester | eJPT | PT1 (TryHackMe) | AXA GBS DLP Intern
-[PHASE 2 : PENDING] --> Pentester | CPTS (Hack The Box) | OSCP
-[PHASE 3 : TARGET]  --> Red Team Operator | CRTO | CRTE
-[PHASE 4 : FUTURE]  --> AI Red Team Operator | Independent Security Researcher
-```
-
----
-
-### [=] LIVE GITHUB TELEMETRY & METRICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Azzammoo10&show_icons=true&theme=dark&bg_color=050505&title_color=FF2D2D&icon_color=FF2D2D&text_color=B0B0B0&border_color=1A1A1A&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzammoo10&layout=compact&theme=dark&bg_color=050505&title_color=FF2D2D&text_color=B0B0B0&border_color=1A1A1A&hide_border=false" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Azzammoo10&theme=dark&background=050505&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D&sideLabels=AAAAAA&border=1A1A1A" width="99%" />
+<!-- ── ANIMATED TYPING ── -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=FF2D2D&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Cybersecurity+Engineer;DLP+Security+Engineer+%40+AXA+GBS+Morocco;Pentester+%7C+Offensive+Security;Building+defenses+by+understanding+attacks" alt="Typing SVG" />
 
 </div>
 
+<br/>
+
 ---
 
-### [>] SECURE TRANSMISSION CHANNEL
+## About Me
+
+I am a **Cybersecurity Engineer** and **Pentester** based in **Rabat, Morocco**, currently working as a **DLP Security Engineer Intern at AXA GBS Morocco**. My focus is on enterprise data protection using **Microsoft Purview & M365 DLP**, combined with hands-on offensive security through penetration testing.
+
+I believe the best defense is built by understanding the offense -- my approach combines both sides of the security spectrum to build systems that are genuinely harder to break.
+
+<br/>
+
+---
+
+## Skills & Technologies
 
 <div align="center">
 
-```text
-+-------------------------------------------------------------------------+
-|  PORTFOLIO : https://azzammo.com                                       |
-|  LINKEDIN  : https://linkedin.com/in/mohamed-azzam-93115823a/            |
-|  EMAIL     : azzam.moo10@gmail.com                                      |
-+-------------------------------------------------------------------------+
-```
+| Domain | Technologies |
+|:---|:---|
+| **Offensive Security** | Nmap, Burp Suite, Metasploit, Wireshark, OWASP Top 10, Kali Linux |
+| **Data Loss Prevention** | Microsoft Purview, M365 DLP, Data Classification, Compliance Policies |
+| **Secure Engineering** | Spring Security, JWT, AES-256 / SHA-256, Secure REST API Design |
+| **Network Security** | CCNA, Firewalls, VPN / IDS / IPS, TCP/IP, Cisco Packet Tracer |
+| **Languages** | Java, Python, C, C++, C# |
+| **Frameworks** | Spring Boot, Next.js, .NET, Django |
 
-<a href="https://azzammo.com">
-  <img src="https://img.shields.io/badge/%5B%3E%5D_LAUNCH_LIVE_PORTFOLIO_SYSTEM-AZZAMMO.COM-FF2D2D?style=for-the-badge&logoColor=white" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,spring,nextjs,dotnet,django&theme=dark&perline=9" alt="Languages & Frameworks" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=kali,linux,docker,git,vscode,bash,powershell,azure,github&theme=dark&perline=9" alt="Tools & Platforms" />
+
+</div>
+
+<br/>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Azzammoo10/DLP-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azzammoo10&repo=DLP-Project&title_color=FF2D2D&icon_color=FF2D2D&text_color=c9d1d9&bg_color=0d1117&border_color=21262d" width="49%" alt="DLP Project" />
+</a>
+<a href="https://github.com/Azzammoo10/mohamed-azzam-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azzammoo10&repo=mohamed-azzam-portfolio&title_color=FF2D2D&icon_color=FF2D2D&text_color=c9d1d9&bg_color=0d1117&border_color=21262d" width="49%" alt="Portfolio" />
+</a>
+
+<a href="https://github.com/Azzammoo10/tram-pay">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azzammoo10&repo=tram-pay&title_color=FF2D2D&icon_color=FF2D2D&text_color=c9d1d9&bg_color=0d1117&border_color=21262d" width="49%" alt="TramPay" />
+</a>
+<a href="https://github.com/Azzammoo10/SolarFlow-Autonomous-Solar-Irrigation-Intelligence-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azzammoo10&repo=SolarFlow-Autonomous-Solar-Irrigation-Intelligence-System&title_color=FF2D2D&icon_color=FF2D2D&text_color=c9d1d9&bg_color=0d1117&border_color=21262d" width="49%" alt="SolarFlow" />
+</a>
+
+<a href="https://github.com/Azzammoo10/LabelGuard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azzammoo10&repo=LabelGuard&title_color=FF2D2D&icon_color=FF2D2D&text_color=c9d1d9&bg_color=0d1117&border_color=21262d" width="49%" alt="LabelGuard" />
+</a>
+<a href="https://github.com/Azzammoo10/ctfFlag">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azzammoo10&repo=ctfFlag&title_color=FF2D2D&icon_color=FF2D2D&text_color=c9d1d9&bg_color=0d1117&border_color=21262d" width="49%" alt="CTF Flag" />
+</a>
+
+<a href="https://github.com/Azzammoo10/win-awake">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azzammoo10&repo=win-awake&title_color=FF2D2D&icon_color=FF2D2D&text_color=c9d1d9&bg_color=0d1117&border_color=21262d" width="49%" alt="Win Awake" />
+</a>
+<a href="https://github.com/Azzammoo10/afmove">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azzammoo10&repo=afmove&title_color=FF2D2D&icon_color=FF2D2D&text_color=c9d1d9&bg_color=0d1117&border_color=21262d" width="49%" alt="AFMove" />
 </a>
 
 </div>
 
 <br/>
 
+---
+
+## GitHub Analytics
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=050505&customColorList=050505,FF2D2D,050505&height=120&section=footer&animation=twinkling" width="100%" />
+
+<!-- ── GITHUB STATS (anuraghazra/github-readme-stats) ── -->
+<img src="https://github-readme-stats.vercel.app/api?username=Azzammoo10&show_icons=true&hide_title=false&title_color=FF2D2D&icon_color=FF2D2D&text_color=c9d1d9&bg_color=0d1117&border_color=21262d&include_all_commits=true&count_private=true&custom_title=GitHub+Stats" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azzammoo10&layout=compact&title_color=FF2D2D&text_color=c9d1d9&bg_color=0d1117&border_color=21262d&langs_count=8&custom_title=Top+Languages" width="49%" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- ── STREAK STATS (DenverCoder1/github-readme-streak-stats) ── -->
+<img src="https://streak-stats.demolab.com/?user=Azzammoo10&theme=black-ice&background=0D1117&border=21262d&stroke=21262d&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=c9d1d9&dates=555555" width="70%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- ── ACTIVITY GRAPH ── -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azzammoo10&bg_color=0d1117&color=c9d1d9&line=FF2D2D&point=FFFFFF&area=true&area_color=FF2D2D&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Activity Graph" />
+
+<br/><br/>
+
+<!-- ── TROPHIES (ryo-ma/github-profile-trophy) ── -->
+<img src="https://github-profile-trophy.vercel.app/?username=Azzammoo10&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8" width="98%" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<!-- ── FOOTER CTA ── -->
+<a href="https://azzammo.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&duration=4000&pause=2500&color=FF2D2D&center=true&vCenter=true&width=450&height=35&lines=Visit+my+portfolio+--+azzammo.com" alt="Portfolio CTA" />
+</a>
+
+<br/><br/>
+
+<!-- ── FOOTER WAVE ── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D2D,50:1a0000,100:0d1117&height=120&section=footer" width="100%" />
+
 </div>
